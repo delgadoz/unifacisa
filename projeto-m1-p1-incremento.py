@@ -1,6 +1,6 @@
 manifestacoes = ['1#Rodrigo#Reclamação#Falta de agua#Está faltando água nos bebedouros','2#Pedro#Sugestão#Mais computadores na sala#Seria bom que tivesse mais computadores na sala de aula','3#Segundo#Elogio#Obrigado#Estou satisfeito com a metodologia de ensino dos professores']
 opcao = 0
-comprimentoLinha = 70
+comprimentoLinha = 65
 linha = '-' * comprimentoLinha
 print('Bem vindo à Ouvidoria ABC!'.center(comprimentoLinha))
 while opcao >= 1 or opcao <= 7:
